@@ -8,7 +8,7 @@ import { Component, Input, OnInit } from '@angular/core';
 export class BigCardComponent implements OnInit {
 
   @Input()
-  photoCover:string =""
+  photoCover: string =""
   @Input()
   cardTitle:string= ""
   @Input()

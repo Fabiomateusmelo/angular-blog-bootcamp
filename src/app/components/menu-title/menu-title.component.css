@@ -9,6 +9,7 @@
   font-family: 'segoe UI';
   display: flex;
   justify-content: center;
+  background: url("/assets/Stream ending Background.png") no-repeat right top fixed;
 }
 
 .container__menu-title > hr{

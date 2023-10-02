@@ -1,5 +1,8 @@
 # AngularBlogBootcamp
 
+![image](https://github.com/Fabiomateusmelo/angular-blog-bootcamp/assets/105231558/b2f2d2bc-f490-4285-bbce-0277f1c29cdc)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
 ## Development server
